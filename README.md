@@ -31,6 +31,6 @@
 
 ---
 
-![snake gif](https://github.com/FAHRIZAL_USERNAME/FahrizallNurS/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/FahrizallNurS/FahrizallNurS/blob/output/github-contribution-grid-snake.svg)
 
 ---
