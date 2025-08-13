@@ -23,12 +23,16 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahrizallNurS&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FahrizallNurSshow_icons=true&theme=tokyonight)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=FahrizallNurS&theme=tokyonight)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahrizallNurS&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahrizallNurS&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahrizallNurS&theme=transparent&hide_border=true" height="165"/>
+</p>
 ---
 
 ![snake gif](https://github.com/FahrizallNurS/FahrizallNurS/blob/output/github-contribution-grid-snake.svg)
