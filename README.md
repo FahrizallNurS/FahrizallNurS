@@ -35,6 +35,8 @@
 </p>
 ---
 
-![snake gif](https://github.com/FahrizallNurS/FahrizallNurS/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/FahrizallNurS/FahrizallNurS/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 ---
