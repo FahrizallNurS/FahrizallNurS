@@ -4,7 +4,7 @@
 ---
 
 ### 🛠 About Me
-- 🌱 I’m currently learning **Cybersecurity, Networking, and Python**
+- 🌱 I’m currently learning **Python**
 - 💻 Previously built a **website using HTML, CSS, JavaScript, and PHP**
 - ⚡ Fun fact: I break things to make them better 🔐
 
