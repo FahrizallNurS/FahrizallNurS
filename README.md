@@ -2,12 +2,6 @@
 <h3 align="center">Engineering Student at Madiun State Polytechnic</h3>
 
 ---
-
-### 🛠 About Me
-- 🌱 I’m currently learning **Python**
-- 💻 Previously built a **website using HTML, CSS, JavaScript, and PHP**
-- ⚡ Fun fact: I break things to make them better 🔐
-
 ![Profile Views](https://komarev.com/ghpvc/?username=FahrizallNurS&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/FahrizallNurS?label=Follow&style=social)
 
